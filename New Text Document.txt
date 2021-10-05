@@ -1,0 +1,7 @@
+echo "# Module_2_Assignment" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Saheelkumar2410/Module_2_Assignment.git
+git push -u origin master
